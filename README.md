@@ -1,0 +1,1 @@
+# shell_start_mining_script
